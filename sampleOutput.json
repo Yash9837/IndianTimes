@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Ukraine attacks Russian navy base near Novorossiysk - Reuters",
+            "description": "Ukrainian sea drones attacked a Russian navy base near the Black Sea port of Novorossiysk, a major hub for Russian exports, early on Friday and were destroyed by Russian warships, Russia's defence ministry said.",
+            "url": "https://www.reuters.com/world/europe/blasts-gunfire-reported-near-russian-black-sea-port-novorossiysk-2023-08-04/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=151",
+            "publishedAt": "2023-08-04T04:07:30Z",
+            "content": "Aug 4 (Reuters) - Ukrainian sea drones attacked a Russian navy base near the Black Sea port of Novorossiysk, a major hub for Russian exports, early on Friday and were destroyed by Russian warships, R… [+1833 chars]"
+          },
+          {
+            "source": {
+              "id": "cnn",
+              "name": "CNN"
+            },
+            "author": "Ramishah Maruf",
+            "title": "Amazon’s stock surges as Q2 earnings show profit and sales jump - CNN",
+            "description": "E-commerce behemoth Amazon increased its net sales 11% to $134.4 billion in the second quarter as analysts monitor consumer spending in both the cloud and retail markets.",
+            "url": "https://www.cnn.com/2023/08/03/tech/amazon-earnings-second-quarter/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230803140214-amazon-prime-day-0711-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-04T03:40:00Z",
+            "content": "Amazon\r\n(AMZN)s sales boomed on strong demand in the second quarter for its wide range of products, from fast delivery forPrime deals to ads, fueling a massive jump in profit from a year ago.\r\nSales … [+1988 chars]"
+          }
+    ]
+}

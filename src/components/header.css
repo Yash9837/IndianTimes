@@ -1,0 +1,23 @@
+.count {
+
+    /* background-color: gray;
+   
+  background-repeat: no-repeat;
+  background-size: 40% 40%; */
+  background: rgb(10,3,88);
+background: linear-gradient(180deg, rgba(10,3,88,1) 16%, rgba(10,15,68,1) 43%, rgba(0,8,9,1) 100%); 
+padding: 100px;
+/* background-image: url(https://images.news18.com/ibnlive/uploads/2022/08/india-gate-delhi11-16604979253x2.jpg);
+background-size: cover;
+    background-position: center;
+    width: 100vw; 
+       height: 80vh;  */
+
+
+
+}
+.cname{
+    text-align: center;
+    color: aliceblue;
+    
+}
