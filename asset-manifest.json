@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IndianTimes/static/css/main.ee40b13b.css",
+    "main.js": "/IndianTimes/static/js/main.a7199828.js",
+    "static/js/787.9a748b14.chunk.js": "/IndianTimes/static/js/787.9a748b14.chunk.js",
+    "index.html": "/IndianTimes/index.html",
+    "main.ee40b13b.css.map": "/IndianTimes/static/css/main.ee40b13b.css.map",
+    "main.a7199828.js.map": "/IndianTimes/static/js/main.a7199828.js.map",
+    "787.9a748b14.chunk.js.map": "/IndianTimes/static/js/787.9a748b14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee40b13b.css",
+    "static/js/main.a7199828.js"
+  ]
+}
